@@ -4,9 +4,10 @@
 
 * Data Engineering
 * Deep Learning (NLP / NNs)
-* AI 
+* Industry applications for Data Science
+* AI and LLM software solutions
 
-☕ Happy to talk! I have 5 years of experience doing Data Science at the Central Bank of Chile, specially: 
+☕ Happy to talk! I have 7 years of experience doing Data Science through roles in Central Banking, OECD, Duke University, specially: 
 
 * Data Analytics
 * International Economy
