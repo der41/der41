@@ -7,12 +7,13 @@
 * Industry applications for Data Science
 * AI and LLM software solutions
 
-☕ Happy to talk! I have 7 years of experience doing Data Science through roles in Central Banking, OECD, Duke University, specially: 
+☕ Happy to talk! I have 6 years of experience doing Data Science through roles in Central Banking, OECD, Duke University, specially: 
 
 * Data Analytics
 * International Economy
 * Time Series Analysis
 * Causal Inference
+- You can see my journey and findings on my personal [portfolio website](https://diego-portfolio-ds.vercel.app/)
 
 💬 Feel free to reach out! I'm always open to collaboration and discussion
 
